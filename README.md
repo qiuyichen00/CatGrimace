@@ -11,5 +11,5 @@ and whizzle.
 Implemented YOLO-V3 object detection model to predict the bounding boxes for each action unit.
 
 ## Sample Prediction
-![] (/sample_pred.png)
+![](https://github.com/qiuyichen00/CatGrimace/blob/main/sample_pred.png)
 
